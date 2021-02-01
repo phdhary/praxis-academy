@@ -1,0 +1,7 @@
+lokasi kernel linux terdapat di direktori /boot
+
+file terkait :
+- vmlinuz-linux
+    Berguna untuk menjalankan operating system dengan kernel linux. 
+- vmlinuz-linux-lts
+    Berguna untuk menjalankan operating system dengan kernel linux long term support (lebih stabil).
