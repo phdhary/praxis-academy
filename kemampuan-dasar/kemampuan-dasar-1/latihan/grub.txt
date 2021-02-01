@@ -1,0 +1,15 @@
+saya melihat parameter GRUB dengan cara:
+
+-navigasi ke directory /boot/grub
+-buka grub.cfg
+-scroll sampai pada line seperti dibawah ini
+
+linux    /vmlinuz-linux-lts root=UUID=d6ed131a-d40f-4443-830a-4f5cfdeddad1 rw rootflags=subvol=root loglevel=3
+
+Konfigurasi ini memakai beberapa parameter GRUB yaitu:
+
+root : menunjuk pada device apa root filesystem itu berada.
+rootflags : opsi mounting pada root filesystem.
+rw : read-write, agar root device nya bisa melakukan read dan write saat boot.
+loglevel : berguna untuk melakukan filter pada log kernel. Urutan loglevel adalah berdasarkan pada tingkat severity.loglevel paling tinggi adalah loglevel 0 dan paling rendah adalah loglevel 7.
+Pada sistem saya menggunakan loglevel 3, sistem akan mencatat non-critical error seperti masalah pada driver dan device yang tidak bisa dikenali.
