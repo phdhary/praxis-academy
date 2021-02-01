@@ -1,0 +1,84 @@
+>ls
+Android                 Music      'VirtualBox VMs'      ova
+AndroidStudioProjects   Pictures    f_project            py_project
+Cloned                  Postman     go                   snap
+Desktop                 Public      hs_err_pid1046.log   speedcc.fit
+Docker                  Script      hs_err_pid862.log    vmware_disk
+Documents               Templates   hs_err_pid877.log
+Downloads               Videos      hs_err_pid887.log
+
+>pwd
+/home/laken
+
+>ping google.com
+PING google.com (216.239.38.120) 56(84) bytes of data.
+64 bytes from any-in-2678.1e100.net (216.239.38.120): icmp_seq=1 ttl=115 time=28.0 ms
+64 bytes from 120.38.239.216.in-addr.arpa (216.239.38.120): icmp_seq=2 ttl=115 time=28.6 ms
+64 bytes from 120.38.239.216.in-addr.arpa (216.239.38.120): icmp_seq=3 ttl=115 time=28.3 ms
+64 bytes from 120.38.239.216.in-addr.arpa (216.239.38.120): icmp_seq=4 ttl=115 time=28.2 ms
+64 bytes from 120.38.239.216.in-addr.arpa (216.239.38.120): icmp_seq=5 ttl=115 time=51.6 ms
+
+>shutdown
+Shutdown scheduled for Mon 2021-02-01 17:13:53 WIB, use 'shutdown -c' to cancel.
+
+>uname
+Linux
+
+>date
+Mon Feb  1 05:15:00 PM WIB 2021
+
+>df
+Filesystem     1K-blocks     Used Available Use% Mounted on
+dev              6069852        0   6069852   0% /dev
+run              6078596     1596   6077000   1% /run
+/dev/sdb4      554902528 86404916 467402108  16% /
+tmpfs            6078596   419544   5659052   7% /dev/shm
+tmpfs               4096        0      4096   0% /sys/fs/cgroup
+tmpfs            6078600     8800   6069800   1% /tmp
+/dev/sdb3         523248   110244    413004  22% /boot
+/dev/loop1        836992   836992         0 100% /var/lib/snapd/snap/android-studio/99
+/dev/loop2         31872    31872         0 100% /var/lib/snapd/snap/snapd/10238
+/dev/loop3        228352   228352         0 100% /var/lib/snapd/snap/dbeaver-ce/100
+/dev/loop6        166784   166784         0 100% /var/lib/snapd/snap/gnome-3-28-1804/145
+/dev/loop0         56832    56832         0 100% /var/lib/snapd/snap/core18/1944
+/dev/loop4        228224   228224         0 100% /var/lib/snapd/snap/dbeaver-ce/97
+/dev/loop5        198016   198016         0 100% /var/lib/snapd/snap/flutter/46
+/dev/loop7         63232    63232         0 100% /var/lib/snapd/snap/core20/904
+/dev/loop8         56704    56704         0 100% /var/lib/snapd/snap/core18/1932
+/dev/loop10        31872    31872         0 100% /var/lib/snapd/snap/snapd/10707
+/dev/loop11       141824   141824         0 100% /var/lib/snapd/snap/inkscape/8049
+/dev/loop12        62464    62464         0 100% /var/lib/snapd/snap/core20/634
+/dev/loop13        66432    66432         0 100% /var/lib/snapd/snap/gtk-common-themes/1514
+/dev/loop14       837888   837888         0 100% /var/lib/snapd/snap/android-studio/98
+tmpfs            1215716       88   1215628   1% /run/user/1000
+/dev/loop15       201984   201984         0 100% /var/lib/snapd/snap/flutter/47
+
+>ps
+    PID TTY          TIME CMD
+  31004 pts/1    00:00:02 zsh
+  31011 pts/1    00:00:00 zsh
+  31060 pts/1    00:00:00 zsh
+  31061 pts/1    00:00:00 zsh
+  31063 pts/1    00:00:00 gitstatusd-linu
+  34132 pts/1    00:00:00 ps
+
+>cat Documents/praxis-academy/kemampuan-dasar/kemampuan-dasar-1/latihan/env.txt
+- Display Manager : SDDM (Simple Desktop Display Manager)
+- Window Manager : Kwin
+- Desktop Environtment : KDE Plasma Desktop
+- Shell : Zsh 
+
+Saya mendapatkan informasi tersebut dengan menjalankan command neofetch pada terminal.
+
+>sudo
+usage: sudo -h | -K | -k | -V
+usage: sudo -v [-AknS] [-g group] [-h host] [-p prompt] [-u user]
+usage: sudo -l [-AknS] [-g group] [-h host] [-p prompt] [-U user] [-u user] [command]
+usage: sudo [-AbEHknPS] [-C num] [-D directory] [-g group] [-h host] [-p prompt] [-R directory] [-T timeout] [-u user] [VAR=value] [-i|-s] [<command>]
+usage: sudo -e [-AknS] [-C num] [-D directory] [-g group] [-h host] [-p prompt] [-R directory] [-T timeout] [-u user] file ...
+
+>wc --chars Documents/praxis-academy/kemampuan-dasar/kemampuan-dasar-1/latihan/env.txt
+229 Documents/praxis-academy/kemampuan-dasar/kemampuan-dasar-1/latihan/env.txt
+
+>whoami
+laken
