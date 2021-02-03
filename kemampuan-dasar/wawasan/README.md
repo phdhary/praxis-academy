@@ -13,6 +13,7 @@ Pengolahan data elektronik mencakup :
 4. Pengiriman data
 5. Manipulasi data
 
+***
 
 ### Software
 
@@ -41,7 +42,7 @@ Software adalah sebuah koleksi instruksi yang berfungsi memerintahkan komputer a
 3. User-written Software
 * adalah arsitektur software yang mana user dapat memanipulasi beberapa aspek pada suatu software seperti plugin, packages dan sebagainya.
 
-
+***
 
 ### Perbedaan Informatics dan Computer Science
 
@@ -53,6 +54,7 @@ Computer Science adalah pembelajaran tentang teori, eksperimen dan teknik dari d
 
 Informatics merupakan cabang dari information engineering yang mempelajari praktik dalam mengelola informasi. Secara akademis, informatics adalah ilmu terapan dalam information science yang memilik banyak cabang lagi seperti computer science, information system, information technology dan statistik. 
 
+***
 
 ### Software Development
 
@@ -99,6 +101,8 @@ View Model adalah framework yang menyediakan viewpoint pada sistem dan environme
 
 2. Sebuah model data menyediakan informasi detail seperti apa data yang akan digunakan ketika membuat software sesuai dengan kepentingan bisnis.
 
+***
+
 ### Agile Software Development
 
 Agile software development adalah praktik yang melibatkan pencarian requirement dan pengembangan solusi secara kolaboratif.
@@ -117,6 +121,8 @@ Agile Software Development mempunyai 12 prinsip :
 10. Kesederhanaan dan seni memaksimalkan jumlah pekerjaan yang tidak dilakukan.
 11. Arsitektur, requirement dan desain terbaik muncul dari tim yang mengatur secara mandiri.
 12. Secara rutin tim merefleksikan bagaimana bekerja lebih efektif dan menyesuaikan sesuai bidang.
+
+***
 
 ### Scrum
 
@@ -143,6 +149,7 @@ Scrum team terdiri dari :
 * Meng-edukasi stakeholder tentang prinsip Agile dan Scrum
 * Melatih anggota tim lainnya dalam pengaturan mandiri dan lintas fungsi.
 
+***
 
 ### Extreme Programming (XP)
 
