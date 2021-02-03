@@ -43,3 +43,48 @@ Software adalah sebuah koleksi instruksi yang berfungsi memerintahkan komputer a
 
 
 
+### Perbedaan Informatics dan Computer Science
+
+#### Computer Science
+
+Computer Science adalah pembelajaran tentang teori, eksperimen dan teknik dari dasar desain dan kegunaan komputer. Dengan menggunakan pendekatan ilmiah dalam pembelajarannya, seorang computer scientist memahami teori komputasi dan desain sistem komputasi.
+
+#### Informatics
+
+Informatics merupakan cabang dari information engineering yang mempelajari praktik dalam mengelola informasi. Secara akademis, informatics adalah ilmu terapan dalam information science yang memilik banyak cabang lagi seperti computer science, information system, information technology dan statistik. 
+
+
+### Software Development
+
+Software development adalah serangkaian aktivitas yang difokuskan untuk proses pembuatan, perancangan dan penerapan software.
+
+#### Metodologi
+
+1. Menganalisa masalah
+2. Riset kebutuhan pasar
+3. Mengumpulkan requirement
+4. Menyusun plan dan desain untuk solusi berbasis software
+5. Implementasi dari software
+6. Pengujian software
+7. Deployment
+8. Maintenance dan perbaikan bug
+
+#### Software Development Activities
+
+1. Identifikasi kebutuhan
+* Identifikasi bisa berasal dari riset pasar yang mencakup potensi pelanggan baru, pelanggan lama, prospek penjualan yang menolak produk ataupun dari pihak ketiga.
+
+2. Proses planning
+* Proses planning pada tiap aktifitas akan berfokus pada objektif apa yang perlu dicapai.
+
+3. Perancangan
+* Perancanangan software dimulai dari penerjemahan kebutuhan kedalam bentuk wireframe, membuat high-level design dan prototipe.
+
+4. Implementasi, testing dan dokumentasi
+* Implementasi adalah proses dimana software engineer menulis program untuk project.
+* Testing adalah proses untuk meminimalisir kecacatan pada program. 
+* Dokumentasi biasanya untuk memudahkan internal software engineer dalam pengembangan software agar ketika project yang dikerjakan sudah besar dan ada orang baru yang masuk lebih mudah dalam memahami program.
+
+5. Deployment dan Maintenance
+* Deployment akan langsung dilakukan ketika project sudah melalui tahap testing dan sudah layak untuk release.
+* Maintenance adalah proses ketika software yang sudah release mendapatkan berbagai feedback terkait performa software tersebut yang biasanya akan berujung pada peningkatan maupun perbaikan. 
